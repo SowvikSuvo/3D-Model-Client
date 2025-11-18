@@ -1,5 +1,17 @@
 # 🚀 3D Model – Modern 3D Showcase Web Application
 
+## 📘 Overview
+
+This application features a powerful and dynamic **3D model update and download system**, designed to make managing and accessing the latest 3D assets effortless. Users can upload new versions of models, instantly view the updates in a built-in 3D viewer, and download the latest files directly from the interface.
+
+The system ensures a smooth workflow for designers, developers, clients, and anyone working with evolving 3D content.
+
+### ✔ Key Capabilities
+- **Real-time model updates** – Newly uploaded models automatically replace previous versions.  
+- **Downloadable assets** – Users can download updated 3D models.  
+- **Version-ready structure** – Models can be updated without disrupting existing pages or breaking links.  
+- **Seamless preview experience** – All updates load directly inside the 3D viewer for immediate inspection.
+
 A full-stack 3D model viewing application built using **React, TailwindCSS, DaisyUI, Firebase Authentication, React Router, Node.js, Express, and MongoDB**.  
 This project is designed to provide smooth 3D interactions, authentication system, beautiful UI, and fully responsive layouts.
 
