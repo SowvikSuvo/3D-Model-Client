@@ -5,8 +5,6 @@ This project is designed to provide smooth 3D interactions, authentication syste
 
 ---
 
----
-
 ## 🌐 Live Demo  
 🔗  **Live Site:** - https://heroic-toffee-50c91d.netlify.app/
 
