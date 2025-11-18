@@ -102,6 +102,7 @@ This project is designed to provide smooth 3D interactions, authentication syste
 
 ### 1️⃣ Clone the Repository
 ```bash
-https://github.com/SowvikSuvo/social-events-client.git
-cd social-events-client
+https://github.com/SowvikSuvo/3D-Model-Client.git
+cd 3D-Model-Client
+
 
